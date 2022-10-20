@@ -1,0 +1,27 @@
+{
+  "name": "cypress-dojo-ambev-turma4-desafio-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run --config video=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukkasmatteus00/cypress-dojo-ambev-turma4-desafio-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukkasmatteus00/cypress-dojo-ambev-turma4-desafio-final/issues"
+  },
+  "homepage": "https://github.com/lukkasmatteus00/cypress-dojo-ambev-turma4-desafio-final#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
